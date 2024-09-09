@@ -1,0 +1,4 @@
+# ignore le dossier .idea/
+.idea/
+# ignore tous les fichiers du dossier nouveau_dossier qui commencent par cours_ et finissent par .txt
+nouveau_dossier/cours_*.txt
