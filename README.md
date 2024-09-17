@@ -14,3 +14,6 @@ Test du merge conflict 3
 Test du stash conflict 1
 Test du stash conflict 2
 
+Commit squash 1
+Commit squash 2
+Commit squash 3
