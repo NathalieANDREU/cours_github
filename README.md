@@ -10,3 +10,7 @@ Test du merge conflict 1
 Test du merge conflict 2
 Test du merge conflict 3
 
+
+Test du stash conflict 1
+Test du stash conflict 2
+
